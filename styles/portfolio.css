@@ -177,3 +177,7 @@ input {
 .contact a {
   text-decoration: none;
 }
+.copyrights {
+  text-align: center;
+  padding: 10px;
+}
